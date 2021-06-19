@@ -1,3 +1,9 @@
 body{
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    background-color: black;
+    color:#ffffff;
+}
+hr{
+    background-color: #0dcaf0
+    ;
 }

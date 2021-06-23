@@ -10,3 +10,6 @@ hr{
 .card-img-top{
     height: 10em;
 }
+html {
+    scroll-behavior: smooth;
+  }

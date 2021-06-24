@@ -1,4 +1,6 @@
 $(document).ready(function () {
+    //tooltip
+    $('[data-bs-toggle="tooltip"]').tooltip();
     //toggle
     $('.plane').click(function () {
         $('.text-plane').toggle()
